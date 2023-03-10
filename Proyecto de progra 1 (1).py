@@ -5,6 +5,7 @@ Para lo cual, almacenará el sistema el tipo, descripción y precio SIN IVA.
 ejecutadas: Número de orden, usuario que lo solicita y la especificación de los
 platillos ordenados. Además, podrá seleccionar una orden y darla por finalizada."""
 
+print("Prueba")
 identificacion = int(input("Selecciona tu rol: \n 1- Encargado \n 2- Cliente \n"))
 encargado = 1
 cliente = 2
