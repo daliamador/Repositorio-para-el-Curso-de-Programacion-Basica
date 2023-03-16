@@ -73,5 +73,6 @@ if identificacion == 2:
         codigo = input("Código de seguridad de la tarjeta: ")
         print("Cliente registrado")
         
-    
+
+prueba    
             
