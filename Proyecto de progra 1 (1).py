@@ -74,4 +74,7 @@ if identificacion == 2:
         print("Cliente registrado")
         
     
-            
+
+
+
+            T est
